@@ -3,7 +3,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Flutter Helper Utils',
   description: "Flutter Helper Utils is a comprehensive package aimed to augment Dart and Flutter's core functionalities. With a rich set of extensions and helper methods, this package boosts productivity and simplifies coding in Flutter projects.",
-  base: '/flutter-helper-utils/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
